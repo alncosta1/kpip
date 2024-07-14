@@ -1,0 +1,9 @@
+streamlit
+streamlit-autorefresh
+pygsheets
+pandas
+scikit-learn
+numpy
+plotly
+folium
+streamlit-folium
